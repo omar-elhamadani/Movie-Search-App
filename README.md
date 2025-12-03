@@ -1,3 +1,8 @@
+## Live link:
+
+https://movie-search-app-rc56.vercel.app/
+
+
 ## How to Run the Project
 
 ### Installation & Setup
